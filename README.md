@@ -9,6 +9,6 @@ Functionalities
 
 Relationships
 -------------
-*Every book has many discussions
-*Every user has many a posts
-*Every post belong to a book
+* Every book has many discussions
+* Every user has many a posts
+* Every post belong to a book
