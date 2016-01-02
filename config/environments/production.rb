@@ -81,5 +81,5 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   #remember to set to actual website name
-  config.action_mailer.default_url_options = { host: 'http://bookclub.herokuapp.com/' }
+  config.action_mailer.default_url_options = { host: 'http://tomsclub.herokuapp.com/' }
 end
